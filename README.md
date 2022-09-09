@@ -17,7 +17,7 @@ Download the Credentials Presented on your screen!
 
 That's it! You have your AWS IAM Users created.
 
-<>Best Practices in Creating IAM Users</>
+#Best Practices in Creating IAM Users
 it's Important to group Users, such that a number of Users can inherit Policies and Permisssions attached to a group. This way you can centrally manage all Users in a group.
 Another best Practice is to add MFA to evry User accounts.
 
