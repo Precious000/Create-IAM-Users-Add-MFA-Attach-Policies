@@ -1,6 +1,8 @@
 # Create-IAM-Users-Add-MFA-Attach-Policies
 This Project will include the process of creating an IAM User, describe how you can add MFA, and attach Policies.
 In AWS IAM are simply resources in IAM(Identity and Access Management) with permissions associated to the users account.
+
+
 Follow the Steps Below to create an IAM User
 
 .Log into your AWS account
@@ -18,7 +20,10 @@ Download the Credentials Presented on your screen!
 That's it! You have your AWS IAM Users created.
 
 #Best Practices in Creating IAM Users
+
+
 it's Important to group Users, such that a number of Users can inherit Policies and Permisssions attached to a group. This way you can centrally manage all Users in a group.
+
 Another best Practice is to add MFA to evry User accounts.
 
 #How to Add MFA
@@ -30,6 +35,7 @@ input the codes and there you have it.
 MFA set for your Usesrs!
 
 #Best Practice in Adding MFA
+
 Add MFA to privilege Users and all accounts
 Always Screenshot your QR Codes 
 
